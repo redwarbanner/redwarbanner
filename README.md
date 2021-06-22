@@ -8,12 +8,10 @@ Skills: JS / HTML / CSS
 
 - 🔭 I’m currently working on smart-consulting.ru 
 - 🌱 I’m currently learning React 
-- 👯 I’m looking to collaborate on Google 
 - 🤔 I’m looking for help with motivation 
 - 💬 Ask me about my targets 
 - 📫 How to reach me: Telegram @dmcwyd  
-- 😄 Pronouns: 121 
-- ⚡ Fun fact: 212 
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/redwarbanner)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/https://codepen.io/redwarbanner)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15555346)  
