@@ -2,7 +2,6 @@
 #### I am a junior developer 
 ![I am a junior developer ](https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif)
 
-I plan to use github every day (I'll try), see what happens.
 
 Skills: JS / HTML / CSS
 
