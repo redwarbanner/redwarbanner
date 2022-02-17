@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Sergei
-#### I am a junior developer 
-![I am a junior developer ](https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif)
+#### I am a developer 
+![I am a developer ](https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif)
 
 
 Skills: JS / HTML / CSS
