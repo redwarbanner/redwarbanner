@@ -3,7 +3,11 @@
 ![I am a developer ](https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif)
 
 
-Skills: JS / HTML / CSS
+Skills: 
+-TypeScript, JavaScript (ES6+)
+-HTML / CSS / SCSS / CSS Modules
+-Ant Design / Bootstrap 
+-Webpack
 
 - 🔭 I’m currently working on bars.group
 - 🌱 I’m currently learning React 
