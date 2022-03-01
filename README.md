@@ -4,10 +4,10 @@
 
 
 Skills: 
--TypeScript, JavaScript (ES6+)
--HTML / CSS / SCSS / CSS Modules
--Ant Design / Bootstrap 
--Webpack
+- TypeScript, JavaScript (ES6+)
+- HTML / CSS / SCSS / CSS Modules
+- Ant Design / Bootstrap 
+- Webpack
 
 - 🔭 I’m currently working on bars.group
 - 🌱 I’m currently learning React 
