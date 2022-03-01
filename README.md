@@ -5,11 +5,11 @@
 
 Skills: JS / HTML / CSS
 
-- 🔭 I’m currently working on smart-consulting.ru 
+- 🔭 I’m currently working on bars.group
 - 🌱 I’m currently learning React 
 - 🤔 I’m looking for help with motivation 
 - 💬 Ask me about my targets 
-- 📫 How to reach me: Telegram @dmcwyd  
+- 📫 How to reach me: Telegram @msv_95 
 
 
 
