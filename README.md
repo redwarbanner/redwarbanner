@@ -9,6 +9,8 @@ Skills:
 - Ant Design / Bootstrap 
 - Webpack
 
+
+Some information: 
 - 🔭 I’m currently working on bars.group
 - 🌱 I’m currently learning React 
 - 🤔 I’m looking for help with motivation 
