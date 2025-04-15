@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sergeu!
+# 👋 Hi, I'm Sergei!
 
 **Frontend developer** specializing in modern web technologies
 
