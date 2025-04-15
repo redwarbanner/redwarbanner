@@ -25,7 +25,7 @@
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
 
 ## 🏢 Current Position
-**Full-stack Developer** at [RedWarBanner](https://github.com/redwarbanner)  
+**Frontend developer** at [RedWarBanner](https://github.com/redwarbanner)  
 Building modern web applications with React, TypeScript and GraphQL
 
 ## 📈 GitHub Stats
