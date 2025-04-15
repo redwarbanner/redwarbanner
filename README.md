@@ -1,6 +1,6 @@
-# 👋 Hi, I'm RedWarBanner!
+# 👋 Hi, I'm Sergeu!
 
-**Full-stack developer** specializing in modern web technologies
+**Frontend developer** specializing in modern web technologies
 
 ## 🛠 Tech Stack
 
@@ -18,12 +18,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
 ![MUI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white)
 
-### ⚙️ Backend
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-
 ### 🛠 Tools
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
@@ -39,9 +33,8 @@ Building modern web applications with React, TypeScript and GraphQL
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redwarbanner&layout=compact&theme=radical)](https://github.com/redwarbanner)
 
 ## 📫 How to Reach Me
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/your_telegram)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/msv_95)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:redcoub@yandex.ru)
 
 > "Code is poetry where every line matters"  
 > *© RedWarBanner*
