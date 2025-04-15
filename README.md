@@ -1,28 +1,47 @@
-### Hi there 👋, my name is Sergei
-#### I am a developer 
-![I am a developer ](https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif)
+# 👋 Hi, I'm RedWarBanner!
 
+**Full-stack developer** specializing in modern web technologies
 
-Skills: 
-- TypeScript, JavaScript (ES6+)
-- HTML / CSS / SCSS / CSS Modules
-- Ant Design / Bootstrap 
-- Webpack
+## 🛠 Tech Stack
 
+### 💻 Core Technologies
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 
-Some information: 
-- 🔭 I’m currently working on bars.group
-- 🌱 I’m currently learning React 
-- 🤔 I’m looking for help with motivation 
-- 💬 Ask me about my targets 
-- 📫 How to reach me: Telegram @msv_95 
+### 🎨 Frontend
+![Ant Design](https://img.shields.io/badge/-Ant_Design-0170FE?logo=ant-design&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
+![MUI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white)
 
+### ⚙️ Backend
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
+### 🛠 Tools
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black)
+![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/redwarbanner)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/https://codepen.io/redwarbanner)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15555346)  
+## 🏢 Current Position
+**Full-stack Developer** at [RedWarBanner](https://github.com/redwarbanner)  
+Building modern web applications with React, TypeScript and GraphQL
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=redwarbanner&show_icons=true)  
+## 📈 GitHub Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=redwarbanner&show_icons=true&theme=radical)](https://github.com/redwarbanner)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redwarbanner&layout=compact&theme=radical)](https://github.com/redwarbanner)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=redwarbanner)  
+## 📫 How to Reach Me
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/your_telegram)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 
-![Profile views](https://gpvc.arturio.dev/redwarbanner)  
+> "Code is poetry where every line matters"  
+> *© RedWarBanner*
